@@ -99,7 +99,7 @@ realistic_biomes:
     hot_rainy: 1.0
     SWAMPLAND: 0.5
     temperate: 0.25
-    hot_dry: 0.1
+    hot_dry: 1.0
     SKY: 0.1
 
   POTATO:
@@ -108,7 +108,7 @@ realistic_biomes:
    biomes:
     mountain: 1.0
     temperate: 0.5
-    cold: 0.25
+    cold: 1.0
     SKY: 0.1
 
   #...................
@@ -188,8 +188,8 @@ realistic_biomes:
    biomes:
     hot_rainy: 1.0
     SWAMPLAND: 0.5
-    BEACH: 0.5
-    RIVER: 0.5
+    BEACH: 1.0
+    RIVER: 1.0
 
   #----------------------------------------
 
@@ -370,8 +370,8 @@ realistic_biomes:
    biomes:
     temperate: 1.0
     mountain: 0.25
-    hot_dry: 0.25
-    cold: 0.25
+    hot_dry: 0.5
+    cold: 0.5
     hot_rainy: 0.1
     mushroom: 1.0
 
